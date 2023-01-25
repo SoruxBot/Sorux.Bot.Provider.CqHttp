@@ -1,0 +1,7 @@
+.DS_Store
+.vscode
+.vs
+.idea
+.fleet
+**/obj
+**/bin
